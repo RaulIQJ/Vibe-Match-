@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#VibeMmatch secrets and local data
+.env
+.cache
+data/raw/
+*.db
